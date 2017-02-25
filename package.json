@@ -1,0 +1,24 @@
+{
+  "name": "node-spring-sleuth-logging",
+  "version": "1.0.0",
+  "description": "Add Spring Sleuth TraceId to Node logging for requests received from Spring Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sineadmcl13"
+  },
+  "keywords": [
+    "Node",
+    "Logging",
+    "Spring"
+  ],
+  "author": "https://github.com/sineadmcl13",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.6.1"
+  }
+}
